@@ -1,11 +1,11 @@
 
 
-# Phishing URL Detector 🔗🛡️
+# Phishing URL Detector with machine learning
 
 A cross-platform, machine learning-powered tool to detect phishing websites in real time by analyzing URL features.  
 **Empowering users with instant security feedback and educational insights.**
 
-## 🚀 Overview
+##  Overview
 
 Phishing attacks are a leading cybersecurity threat, tricking users into revealing sensitive information via deceptive websites.  
 **Phishing URL Detector** leverages advanced feature engineering and a trained Random Forest model to identify suspicious URLs—even those never seen before.  
@@ -21,10 +21,10 @@ With a modern, user-friendly interface and actionable feedback, this tool helps 
 - **Cross-platform GUI** (Windows, Linux, macOS)
 - **Privacy-first:** All processing is local; no data leaves your device
 
-## 🖥️ Demo
+##  Demo
 
  ![screenshots](Screenshot1.png)
-![screenshots](Screenshot1.png)
+![screenshots](Screenshot2.png)
 
 ## 📦 Installation
 
@@ -99,24 +99,24 @@ phishing-url-detector/
 └── README.md                      # Project documentation
 ```
 
-## 🛡️ Security & Privacy
+##  Security & Privacy
 
 - **Passive analysis:** The tool does not connect to or interact with URLs.
 - **Local processing:** No URLs or user data are sent to external servers.
 - **Educational focus:** Users learn *why* a URL is suspicious, not just that it is.
 
-## 📚 References
+##  References
 
 - [scikit-learn Documentation](https://scikit-learn.org/)
 - [OWASP Phishing Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Phishing_Prevention_Cheat_Sheet.html)
 - [Python Official Documentation](https://docs.python.org/3/)
 
-## 🙌 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome!  
 Please open an [issue](https://github.com/abireshu/Phishing-url-detector-with-machine-learning/issues) or submit a pull request.
 
 
-## 👩‍💻 Author
+##  Author
 
 **Abinaya Balakrishnan**  
